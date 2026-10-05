@@ -1,0 +1,5 @@
+{
+  "scripts":{"dev":"vite","build":"vite build"},
+  "dependencies":{"@vitejs/plugin-react":"latest","axios":"latest","vite":"latest","react":"latest","react-dom":"latest","react-router-dom":"latest","react-toastify":"latest","tailwindcss":"latest"},
+  "devDependencies":{}
+}

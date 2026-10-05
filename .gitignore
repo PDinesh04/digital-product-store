@@ -1,0 +1,8 @@
+@"
+venv/
+__pycache__/
+*.pyc
+.env
+frontend/node_modules/
+backend/*.db
+"@ | Out-File -Encoding utf8 .gitignorebackend/app/__pycache__/
